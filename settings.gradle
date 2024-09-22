@@ -1,0 +1,3 @@
+include ':settings.gradle.kts'
+include ':build.gradle.kts'
+include ':mylibrary'
